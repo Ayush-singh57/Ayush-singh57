@@ -1,3 +1,4 @@
+![logo](https://github.com/Ayush-singh57/Ayush-singh57/blob/main/Black%20and%20White%20Simple%20Motivational%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Chouhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
